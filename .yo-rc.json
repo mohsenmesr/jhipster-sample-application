@@ -40,7 +40,9 @@
     "pages": [],
     "creationTimestamp": 1628003293118,
     "jwtSecretKey": "NTRkOTYyZGVjNjEzY2YxYzFkZmM4ZWU3OGE5MjY5MDYyNDYxNjY3OTU4NjI2YmNkMjBiMmJlMTBjODYxZjUzYTcxZTgxMzRjOTZlMjhiOWMzYmFkMWVkNTM2YmZhODMxN2U5YTNjMWQ5ZDdlNDUxZTYyMTRhNTg0NzJjNTE4NmE=",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1628003339000
   },
   "git-provider": "GitHub",
   "git-company": "mohsenmesr",
